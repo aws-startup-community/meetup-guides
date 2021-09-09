@@ -1,8 +1,8 @@
 # Meetup Guides
-AWS Startup CommunityのMeetup関連のガイドラインです
+[AWS Startup Community](https://aws-startup-community.connpass.com/) の イベント関連のガイドラインです
 
 ## For Speakers
-- [Speaker's Guide](speakers-guide.md)をご参照ください。
+- [スピーカーガイド](speakers-guide.md) をご参照ください。
 
 ## For Participants
-- Meetupイベントは[Connpass](https://aws-startup-community.connpass.com/)で公開しておりますので、そちらをご参照ください。
+- Meetup イベントは [Connpass](https://aws-startup-community.connpass.com/) で公開しておりますので、そちらをご参照ください。
